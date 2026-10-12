@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Remove Directories that shouldn't have been added
+VSCaptureMP/VSCaptureMP/bin/
+VSCaptureMP/packages/
