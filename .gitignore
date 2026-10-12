@@ -48,4 +48,5 @@ Temporary Items
 
 # Remove Directories that shouldn't have been added
 VSCaptureMP/VSCaptureMP/bin/
+VSCaptureMP/VSCaptureMP/obj/
 VSCaptureMP/packages/
